@@ -1,6 +1,6 @@
 <div>
   <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/109420988?s=400&u=ce5398c128da063cde64ec7eae95c56db197e3b2&v=4" height="135" width="135">
+    <img src="/public/icon.svg">
   </p>
   <h1 align="center">Ephemeral</h1>
   <p align="center">Ephemeral is a proxy, school compatible.</p>
