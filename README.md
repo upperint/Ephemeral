@@ -1,6 +1,6 @@
 <div>
   <p align="center">
-    <img src="/public/icon.svg">
+    <img src="/public/icon.svg" width="600" height="600">
   </p>
   <h1 align="center">Ephemeral</h1>
   <p align="center">Ephemeral is a proxy, school compatible.</p>
