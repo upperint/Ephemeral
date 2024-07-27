@@ -1,7 +1,7 @@
 {
 	"name": "Ephemeral",
 	"short_name": "Ephemeral",
-	"description": "Ephemeral is a web proxy that allows you to bypass internet restrictions such as firewalls, filters, and parental controls.",
+	"description": "Ephemeral is a teaching website which is perfect for students and geography teachers.",
 	"start_url": "/",
 	"display": "standalone",
 	"background_color": "#020617",
